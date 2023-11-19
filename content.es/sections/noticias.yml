@@ -1,0 +1,12 @@
+title: Noticias
+subtitle: Novedades
+icon: rss
+rows:
+- type: articles
+  kind: blog
+  author: ''
+  max: 12
+  design:
+    num: 4
+    color: white
+    slider: true

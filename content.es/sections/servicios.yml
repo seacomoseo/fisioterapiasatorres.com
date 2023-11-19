@@ -1,0 +1,32 @@
+title: Servicios
+subtitle: ¿Qué procesos seguimos?
+icon: rocket-launch
+rows:
+- type: columns
+  design:
+    num: 3
+    num_xs: false
+    uppercase: true
+    underline: true
+    color: white
+  items:
+  - title: Terapia manual
+    icon: dog
+    description: |
+      Técnicas manuales para aliviar el dolor, mejorar la movilidad y el rango de movimiento.
+  - title: Técnicas osteopáticas
+    icon: dog
+    description: |
+      Técnicas de osteopatía destinadas al tratamiento de patologías osteoarticulares, corrigiendo las disfunciones y mejorando la funcionalidad.
+  - title: Fisioterapia invasiva
+    icon: dog
+    description: |
+      Utilizo técnicas de fisioterapia invasiva como la punción seca y la electrólisis percutánea para tratar lesiones musculares y tendinosas.
+  - title: Tratamiento de espalda y cuello
+    icon: dog
+    description: |
+      Mi especialidad es el tratamiento de dolores de espalda y cuello, utilizando técnicas manuales, osteopáticas y de fisioterapia invasiva.
+  - title: Tratamiento de lesiones deportivas
+    icon: dog
+    description: |
+      Ayudo a deportistas a recuperarse de lesiones musculares y tendinosas causadas por la práctica deportiva.

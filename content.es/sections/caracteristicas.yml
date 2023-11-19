@@ -1,0 +1,36 @@
+title: Características
+subtitle: ¿Por qué conmigo?
+icon: certificate
+rows:
+- type: steps
+  design:
+    icon_size: 6
+    underline: true
+  items:
+  - title: Terapia manual
+    icon: hands-holding
+    description: |
+      Técnicas manuales para aliviar el dolor, mejorar la movilidad y el rango de movimiento.
+  - title: Técnicas osteopáticas
+    icon: hand-holding-hand
+    description: |
+      Técnicas de osteopatía destinadas al tratamiento de patologías osteoarticulares, corrigiendo las disfunciones y mejorando la funcionalidad.
+  - title: Fisioterapia invasiva
+    icon: tower-broadcast
+    description: |
+      Utilizo técnicas de fisioterapia invasiva como la punción seca y la electrólisis percutánea para tratar lesiones musculares y tendinosas.
+  - title: Especialidades
+    icon: skeleton
+    description: |
+      - Dolor de espalda
+      - Cervicalgias, cefaleas, mareos
+      - Fisioterapia deportiva
+      - Lesiones y patologías de origen estructural
+  - title: Implicación con el paciente
+    icon: hand-holding-heart
+    description: |
+      Me preocupo por el bienestar de mis pacientes y les dedico todo el tiempo que necesiten para su recuperación.
+  - title: Honestidad y cercanía
+    icon: handshake-simple
+    description: |
+      Soy transparente y honesto en todo momento, manteniendo una relación cercana y amistosa con mis pacientes.

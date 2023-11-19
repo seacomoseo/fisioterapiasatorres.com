@@ -1,0 +1,26 @@
+title: Sobre mi
+subtitle: Fisioterapeuta
+icon: circle-info
+gradient: white
+description: |
+  ![float-right](javier-satorres.png)
+
+  ### Javier Satorres {.underline}
+
+  Mi nombre es Javier Satorres. Fisioterapeuta apasionado y comprometido con el bienestar de mis pacientes; honesto y cercano en todo momento, manteniendo una relación de confianza y amistad.
+
+  Intento explicar a mis pacientes lo que les sucede de tal forma que lo entiendan y no tengan dudas al respecto.
+
+  Mi especialidad se centra en el tratamiento de dolores de espalda y cuello, así como en el manejo de patologías musculares y tendinosas
+
+  Utilizo técnicas manuales, osteopáticas y de fisioterapia invasiva para provocar el menor dolor posible y lograr la máxima efectividad en el tratamiento.
+
+  Con más de 6 años de experiencia en el sector, he tenido la oportunidad de trabajar con atletas de alto nivel como fisioterapeuta de la selección murciana de pádel y triatlón.
+
+  Mi enfoque se basa en el tratamiento personalizado y adaptado a las necesidades de cada paciente, y mi objetivo principal es ayudarles a recuperar su bienestar físico y emocional.
+
+  [btn icon-paper-plane Contacto](#contacto)
+more:
+  padding_top: 0
+  padding_bottom: 0
+  gradient_type: linear-t

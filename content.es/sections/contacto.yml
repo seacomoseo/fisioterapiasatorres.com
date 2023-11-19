@@ -1,0 +1,67 @@
+title: Contacto
+subtitle: ¿En qué te puedo ayudar?
+button: link
+size: sm
+icon: paper-plane
+more:
+  flip_x: true
+rows:
+- type: contact
+  data:
+  - type: h3
+    label: Horario normal
+  - type: schedule
+    days: Lunes a Viernes
+    hours: 9:00-14:00 y 16:00-20:00
+  - type: h3
+    label: Urgencias y horario extraordinario
+  - type: schedule
+    days: Lunes a Viernes
+    hours: 8:00-9:00, 14:00-16:00 y 20:00-21:00
+  - type: schedule
+    days: Sábados
+    hours: 9:00-14:00
+  - type: hr
+  - type: phone
+    label: 600 01 42 58
+    font_alt: true
+  - type: whatsapp
+    label: 600 01 42 58
+    font_alt: true
+    button: link
+  - type: mail
+    label: info@fisioterapiasatorres.com
+    button: alt
+  - type: address
+    active: true
+    name: ''
+    # name: Fisioterapia Satorres
+    streetAddress: C. San Antón, 6
+    postalCode: 30009
+    addressLocality: Murcia
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.1389462,37.9892411]}'
+    button: alt
+  form:
+    fill_inputs: false
+    items:
+    - type: text
+      name: Nombre
+      required: true
+    - type: tel
+      name: Teléfono
+      required: true
+    - type: email
+      name: Email
+      required: true
+    - type: textarea
+      name: Mensaje
+      placeholder: Motivo de consulta
+      required: true
+  map:
+    active: true
+    link: https://g.page/r/Cd86PS4ki2SoEAI
+    iframe: ''
+    flip_x: false
+    divider: curve-side-fill

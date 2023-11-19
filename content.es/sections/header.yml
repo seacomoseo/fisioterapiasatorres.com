@@ -1,0 +1,18 @@
+anchor: Fisioterapia y Osteopatía Satorres, Osteópata y Fisio en Murcia
+subtitle: Experto en el tratamiento del dolor
+image: logo.svg
+bg: fondo.jpg
+gradient: white
+description: |
+  Trato tu dolor como si fuera el mío
+
+  <!-- [btn icon-plus Más](#principal) -->
+  [btn icon-certificate Características](#caracteristicas)
+  [btn icon-circle-info Sobre mi](#sobre-mi)
+  [btn icon-paper-plane Contacto](#contacto)
+more:
+  full_screen: true
+  image_min: 18
+  opacity: 30
+  parallax: true
+  gradient_type: linear-b

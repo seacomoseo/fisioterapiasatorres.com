@@ -1,0 +1,70 @@
+// Header
+
+#body-inicio #header {
+  .image {
+    &, * {
+      --radius: 0;
+    }
+  }
+}
+
+@keyframes logo-drop {
+  0% {
+    transform: scale(3);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+#body-inicio #header {
+  .image {
+    // path {
+    //   fill: var(--text);
+    // }
+    transform-origin: center;
+    animation: logo-drop 1s 0s both;
+  }
+  @mixin show-up($delay) {
+    animation: show-up .5s (.5 + .25s * $delay) both;
+  }
+  .section__title {
+    @include show-up(1);
+  }
+  .subtitle {
+    @include show-up(2);
+  }
+  .description {
+    p {
+      @include show-up(3);
+    }
+    .buttons {
+      @include show-up(4);
+    }
+  }
+}
+
+#sobre-mi {
+  .image__inner img {
+    --mask-image: linear-gradient(black 85%, transparent 100%);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
+  }
+  @media (min-width: 1024px) {
+    .content__figure--float img:not(#aux) {
+      max-width: 40%;
+    }
+  }
+  .image__inner {
+    margin-left: fluid-size(3*16px, 12*18px);
+    margin-right: fluid-size(3*16px, 12*18px);
+  }
+}
+
+
+.footer__item {
+  .footer__icon {
+    top: 0;
+  }
+}
