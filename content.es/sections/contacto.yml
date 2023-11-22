@@ -3,8 +3,6 @@ subtitle: ¿En qué te puedo ayudar?
 button: link
 size: sm
 icon: paper-plane
-more:
-  flip_x: true
 rows:
 - type: contact
   data:
@@ -62,6 +60,3 @@ rows:
   map:
     active: true
     link: https://g.page/r/Cd86PS4ki2SoEAI
-    iframe: ''
-    flip_x: false
-    divider: curve-side-fill
