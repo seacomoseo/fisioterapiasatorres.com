@@ -26,21 +26,21 @@
     transform-origin: center;
     animation: logo-drop 1s 0s both;
   }
-  @mixin show-up($delay) {
-    animation: show-up .5s (.5 + .25s * $delay) both;
+  @mixin show-from($delay) {
+    animation: show-from .5s (.5 + .25s * $delay) both;
   }
   .section__title {
-    @include show-up(1);
+    @include show-from(1);
   }
   .subtitle {
-    @include show-up(2);
+    @include show-from(2);
   }
   .description {
     p {
-      @include show-up(3);
+      @include show-from(3);
     }
     .buttons {
-      @include show-up(4);
+      @include show-from(4);
     }
   }
 }
