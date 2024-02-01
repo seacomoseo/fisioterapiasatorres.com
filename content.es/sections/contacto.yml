@@ -32,8 +32,7 @@ rows:
     button: alt
   - type: address
     active: true
-    name: ''
-    # name: Fisioterapia Satorres
+    name: Fisioterapia y Osteopatía Satorres
     streetAddress: C. San Antón, 6
     postalCode: 30009
     addressLocality: Murcia
